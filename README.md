@@ -1,4 +1,4 @@
-fe-capstone-flashcard-app
+# fe-capstone-flashcard-app
 
 Project setup
 Follow the instructions below to get this project up and running on your own machine:
